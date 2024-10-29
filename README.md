@@ -69,7 +69,7 @@ OUTPUT:
 2. Input details in phonebook
 
 
-1[Input details in phonebook](input_details.png)
+![Input details in phonebook](input_details.png)
 
 
 
