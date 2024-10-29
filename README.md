@@ -12,5 +12,5 @@ KEY FEATURES:
 4.	Dynamic Updates: The application dynamically updates the contact list displayed in the GUI whenever a user adds or deletes a contact. This real-time feedback ensures that users are always aware of the current state of their phonebook.
 5.	Educational Tool: This project serves as an educational example for beginners learning Python and GUI development. It demonstrates essential programming concepts such as event-driven programming, data handling, and the use of libraries to create interactive applications.
 
-![Phonebook winndow](Phonebook/Screenshot2024-10-29022815.png)
+![Phonebook winndow](Phonebook/Phonebook_window.png)
 
